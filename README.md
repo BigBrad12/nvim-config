@@ -4,6 +4,7 @@
 
 > This config is slightly different with one or two plugins less, and two other plugins added.
 
+## Plugins added not present on the base config from Josean:
 #### [Vyfor Discord Rich Presence](https://github.com/vyfor/cord.nvim/tree/client-server)
 
 #### [LazyGit](https://github.com/jesseduffield/lazygit) and [Dheepak Krishnamurthy's LazyGit Nvim Plugin]https://github.com/kdheepak/lazygit.nvim
