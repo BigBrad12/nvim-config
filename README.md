@@ -2,7 +2,13 @@
 
 > Josean is a beast when it comes to NVIM. Feel free to watch his video on this config here https://www.youtube.com/watch?v=6pAG3BHurdM
 
-> This config is slightly different with one or two plugins less I believe.
+> This config is slightly different with one or two plugins less, and two other plugins added.
+
+#### [Vyfor Discord Rich Presence](https://github.com/vyfor/cord.nvim/tree/client-server)
+
+#### [LazyGit](https://github.com/jesseduffield/lazygit) and [Dheepak Krishnamurthy's LazyGit Nvim Plugin]https://github.com/kdheepak/lazygit.nvim
+
+- If you're on Mac, just make sure to `brew install lazygit` so the Nvim plugin works.
 
 ### PS, if you know of a way to remove the spelling diagnostics for comments, do please share :{}
 
