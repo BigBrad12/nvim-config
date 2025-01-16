@@ -7,7 +7,7 @@
 ## Plugins added not present on the base config from Josean:
 #### [Vyfor Discord Rich Presence](https://github.com/vyfor/cord.nvim/tree/client-server)
 
-#### [LazyGit](https://github.com/jesseduffield/lazygit) and [Dheepak Krishnamurthy's LazyGit Nvim Plugin]https://github.com/kdheepak/lazygit.nvim
+#### [LazyGit](https://github.com/jesseduffield/lazygit) and [Dheepak Krishnamurthy's LazyGit Nvim Plugin](https://github.com/kdheepak/lazygit.nvim)
 
 - If you're on Mac, just make sure to `brew install lazygit` so the Nvim plugin works.
 
