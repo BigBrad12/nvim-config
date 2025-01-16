@@ -1,6 +1,6 @@
 ## This config is pretty much a copy of https://github.com/josean-dev/dev-environment-files
 
-> Josean is a beast when it comes to NVIM. Feel free to watch his video on this config here https://www.youtube.com/watch?v=6pAG3BHurdM
+> Josean is a beast when it comes to NVIM. Feel free to watch his video on this config [here](https://www.youtube.com/watch?v=6pAG3BHurdM)
 
 > This config is slightly different with one or two plugins less, and two other plugins added.
 
