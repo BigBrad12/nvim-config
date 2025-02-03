@@ -16,7 +16,7 @@ return {
         enable = true,
       },
       -- enable indentation
-      indent = { enable = true },
+      indent = { enable = false },
       endwise = { enable = true },
       -- enable autotagging (w/ nvim-ts-autotag plugin)
       autotag = {
@@ -49,13 +49,7 @@ return {
         "c",
       },
       incremental_selection = {
-        enable = true,
-        keymaps = {
-          init_selection = "<C-space>",
-          node_incremental = "<C-space>",
-          scope_incremental = false,
-          node_decremental = "<bs>",
-        },
+        enable = false,
       },
     })
   end,

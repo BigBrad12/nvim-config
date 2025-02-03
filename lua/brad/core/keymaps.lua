@@ -23,3 +23,8 @@ keymap.set("n", "<leader>tx", "<cmd>tabclose<CR>", { desc = "Close current tab" 
 keymap.set("n", "<leader>tn", "<cmd>tabn<CR>", { desc = "Go to next tab" }) --  go to next tab
 keymap.set("n", "<leader>tp", "<cmd>tabp<CR>", { desc = "Go to previous tab" }) --  go to previous tab
 keymap.set("n", "<leader>tf", "<cmd>tabnew %<CR>", { desc = "Open current buffer in new tab" }) --  move current buffer to new tab
+
+keymap.set("n", "<leader>pm", "<cmd>lua require('harpoon.mark').add_file()<CR>", { desc = "Mark file in Harpoon" })
+keymap.set("n", "<leader>po", "<cmd>lua require('harpoon.ui').toggle_quick_menu()<CR>", { desc = "Open Harpoon UI" })
+keymap.set("n", "<leader>pn", "<cmd>lua require('harpoon.ui').nav_next()<CR>", { desc = "Go to next marked file" })
+keymap.set("n", "<leader>pp", "<cmd>lua require('harpoon.ui').nav_next()<CR>", { desc = "Go to previous marked file" })
