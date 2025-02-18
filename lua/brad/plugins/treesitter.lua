@@ -16,7 +16,7 @@ return {
         enable = true,
       },
       -- enable indentation
-      indent = { enable = false },
+      indent = { enable = true },
       endwise = { enable = true },
       -- enable autotagging (w/ nvim-ts-autotag plugin)
       autotag = {
